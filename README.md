@@ -2,6 +2,15 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Dependencies :
+1- [React Router Dom](https://reactrouter.com/web/guides/quick-start)
+2- [W3.CSS](https://www.w3schools.com/w3css/default.asp)
+3- [Axios](https://www.npmjs.com/package/axios)
+4- [React Toastify](https://www.npmjs.com/package/react-toastify)
+5- [SweetAlert2](https://sweetalert2.github.io/)
+
+In the project directory, you can run:
+
 ## Available Scripts
 
 In the project directory, you can run:
